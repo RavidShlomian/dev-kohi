@@ -1,0 +1,9 @@
+providers.tf
+.terraform/providers/registry.terraform.io/hashicorp/aws/5.45.0/windows_386/terraform-provider-aws_v5.45.0_x5.exe
+Dev-Environment.pem
+dev-kohi.pem
+Dev-Environment-Keys
+*.tfstate.*
+*.tfstate
+**/.terraform/*
+.terraform.lock.hcl
